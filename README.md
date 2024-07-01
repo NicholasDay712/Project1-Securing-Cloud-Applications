@@ -3,11 +3,17 @@ Project 1 Securing Cloud Applications
 This first project covered a wide range of topics including: 
 
 Systems administration
+
 Networking
+
 Network security
+
 Cryptography
+
 Virtualization
+
 Cloud deployment
+
 Web development
 
 Developed and designed a cyber-blog web application using Azure’s Cloud services and Docker
